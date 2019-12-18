@@ -1,5 +1,7 @@
 Arduino IDE CODE
-'''
+
+
+'''c
 #include <SoftwareSerial.h>
 
 #define BT_RXD 12 // 아두이노 12번
