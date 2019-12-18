@@ -1,7 +1,7 @@
 Arduino IDE CODE
 
 
-'''c
+```c
 #include <SoftwareSerial.h>
 
 #define BT_RXD 12 // 아두이노 12번
@@ -36,4 +36,4 @@ void loop() {
     delay(1000);
   }
 }
-'''
+```
