@@ -1,5 +1,6 @@
 ---
 ![icon2](https://user-images.githubusercontent.com/52505364/71056906-49819580-219e-11ea-9347-14a267a92df1.png)
+
 [어플리케이션 다운받기](https://raw.githubusercontent.com/jangminkim/LGCANE/master/APP%20android/LGCANE.apk)
 
 ---
@@ -22,13 +23,16 @@
 
 #### 안드로이드 어플리케이션
 > MIT Appinventer2 로 제작하였으며, 수정 혹은 변경시 추가 모듈인 BLE모듈을 설치하셔야 합니다.
+
 [MIT Appinventert2로 바로가기](http://ai2.appinventor.mit.edu/)
+
 [어플리케이션 폴더로 바로가기](https://github.com/jangminkim/LGCANE/tree/master/APP%20android)
 
 ---
 
 #### 3D 프린팅 모델링
 > 베이스 작업은 fusion 360으로 제작하였으며 추가적인 작업은 스케치업으로 작업됬습니다.
+
 [3D모델링 폴더로 바로가기](https://github.com/jangminkim/LGCANE/tree/master/3D%20modeling)
 
 ---
