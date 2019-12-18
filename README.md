@@ -18,6 +18,7 @@
   - 2900mAh 리튬이온 배터리 1개
   - 로커 스위치 2개
   - 택트 스위치 1개
-  
 
+![KakaoTalk_20191203_211952156](https://user-images.githubusercontent.com/52505364/71057096-daf10780-219e-11ea-9858-49a745c0b07e.png)
 
+---
