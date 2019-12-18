@@ -17,3 +17,12 @@
 ![KakaoTalk_20191203_211952156](https://user-images.githubusercontent.com/52505364/71057096-daf10780-219e-11ea-9858-49a745c0b07e.png)
 
 ---
+
+
+팀원
+@김도현
+@김무근
+@김장민
+@민종호
+@박승우
+@조현식
