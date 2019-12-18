@@ -17,6 +17,7 @@ LGCANE.aia
 ![블루투스 스캔 접솓ㄱ](https://user-images.githubusercontent.com/52505364/71061568-a768aa00-21ab-11ea-9e29-67d4f8d8855b.PNG)
 >블루투스를 스캔 / 스캔 중지 / 접속하는 블럭입니다.
 
+.
 
 ![디바이스 찾고 표시](https://user-images.githubusercontent.com/52505364/71061563-a6d01380-21ab-11ea-9cb3-de9df4b09dec.PNG)
 >디바이스 찾고 표시
